@@ -61,16 +61,4 @@
 		</license>
 	</licenses>
 
-	<developers>
-		<developer>
-			<id>mdobacz</id>
-			<name>Michał Dobaczewski</name>
-			<email>michal (dot) d08 (at) Google mai l</email>
-			<organization>unaffiliated</organization>
-			<roles>
-				<role>made this ages ago</role>
-			</roles>
-		</developer>
-	</developers>
-		
 </project>
