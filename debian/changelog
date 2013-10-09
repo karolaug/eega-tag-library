@@ -1,4 +1,4 @@
-eega-tag-library (0.0.1-1) unstable; urgency=low
+eega-tag-library (0.1-1) unstable; urgency=low
 
   * Rebuild with openjdk-7 as default jdk.
   * Change package format to 3.0 (quilt).
