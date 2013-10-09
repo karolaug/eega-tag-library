@@ -2,6 +2,7 @@ eega-tag-library (0.0.1-1) unstable; urgency=low
 
   * Rebuild with openjdk-7 as default jdk.
   * Change package format to 3.0 (quilt).
+  * Change maintainer to myself.
 
  -- Karol Auguštin <karol@augustin.pl>  Sun, 06 Oct 2013 11:34:32 +0200
 
